@@ -1,6 +1,5 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Footer from '../component/footer'
 import Available from './available'
 import Booking from './booking'
 import DetailNews from './detailnews'

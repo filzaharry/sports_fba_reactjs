@@ -14,12 +14,11 @@ export default function Home() {
           </div>
           <div className='flex flex-row space-x-4'>
             <div>
-                <a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABKElEQVRYhe3XsUrDUBTG8V8Vqoijm0+g0EUQpB1dFF/JwaXoIKhQwUcQ38HZN3DXKrroJCpIW4fcYFBJTbg2FPLBJeFyz/n+OYd7k1BrirWDO/SxXQVAH6Mwbidp3MIJhhmAIY6w8p/Gc+hhkDH+Pj5wgNnY5vO4DCZvOMQamljABs4CwAgXmIkJcBoS32A1Z10HT2HtbizzlqTHr+F+nDYlbXrHcgyAnuSJjgvEnIeYvRgA1yHZeoGYrRBzFQPgJSRbLBCzFGKeYwCkW6yIGr7Oh1xF3SoZpcCNqgD+rBqgBqgBxgF0wvWxRO40pp23KO+gKHr6jdOvXpW3oKweJBVqS9o0CnOFVbYC6UsmW9ZByVyltO/nB2l3kgDNAHEv+Tnphrla06dPElVIaZgsk7wAAAAASUVORK5CYII=" />
-            </a>
+                <img alt="img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABKElEQVRYhe3XsUrDUBTG8V8Vqoijm0+g0EUQpB1dFF/JwaXoIKhQwUcQ38HZN3DXKrroJCpIW4fcYFBJTbg2FPLBJeFyz/n+OYd7k1BrirWDO/SxXQVAH6Mwbidp3MIJhhmAIY6w8p/Gc+hhkDH+Pj5wgNnY5vO4DCZvOMQamljABs4CwAgXmIkJcBoS32A1Z10HT2HtbizzlqTHr+F+nDYlbXrHcgyAnuSJjgvEnIeYvRgA1yHZeoGYrRBzFQPgJSRbLBCzFGKeYwCkW6yIGr7Oh1xF3SoZpcCNqgD+rBqgBqgBxgF0wvWxRO40pp23KO+gKHr6jdOvXpW3oKweJBVqS9o0CnOFVbYC6UsmW9ZByVyltO/nB2l3kgDNAHEv+Tnphrla06dPElVIaZgsk7wAAAAASUVORK5CYII=" />
+            
             </div>
             <div>
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAAAOElEQVRIie3TsQkAMAwDwSf7b+XBnCqQ1hC7yR+oFioEkhoEkM2JU7YGBt1yuE+/807SM95JUskGsVVPTkFzAfwAAAAASUVORK5CYII=" />
+                <img alt="img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAAAOElEQVRIie3TsQkAMAwDwSf7b+XBnCqQ1hC7yR+oFioEkhoEkM2JU7YGBt1yuE+/807SM95JUskGsVVPTkFzAfwAAAAASUVORK5CYII=" />
             </div>
             </div>
         </div>

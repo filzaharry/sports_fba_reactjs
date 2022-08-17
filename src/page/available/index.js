@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import BottomNav from '../../component/bottomnav'
-import DateAvailable from './date'
 import TimeButton from './time'
 
 export default function Available() {
